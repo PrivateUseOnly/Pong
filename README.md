@@ -1,4 +1,5 @@
 # Pong
+Borland 6 was used and was written in C++
 Not finished
 
 
